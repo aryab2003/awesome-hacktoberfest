@@ -158,6 +158,8 @@ They also try to be very welcoming for 1st-time contributors.
 - [Awesome Hacktoberfest 2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022) - Lists awesome projects categorized for beginners and advanced coders for Hacktoberfest 2022.
 - [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - Lists projects which are beginner-friendly.
 - [The Top Open Source Projects marked for Hacktoberfest](https://awesomeopensource.com/projects/hacktoberfest) - List of 29,980 projects on GitHub.
+- [List of curated repositories listed by topic for HacktoberFest](https://dev.to/dhanushnehru/celebrate-hacktoberfest-with-these-exciting-open-source-repositories-to-contribute-to-2mb6)-List of few projects to contribute in HacktoberFest 2023.
+- [Awesome repositories for HacktoberFest contribution](https://github.com/topics/hacktoberfest)-List of beginner-friendly projects for even first-timers. 
 
 ## Contribute
 
